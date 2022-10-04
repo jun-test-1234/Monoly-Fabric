@@ -6,7 +6,7 @@ Getting Started
 Creating a Developer Account
 ----------------------------
 
-To use Monoly Fabric, create a developer account on `Link web portal <https://monoly.com>`_.
+To use Monoly Fabric, create a developer account on `web portal <https://monoly.com>`_.
 Developers can use their email address to create a developer account.
 
 Login to Developer Account
@@ -30,7 +30,7 @@ worrying about setting up the infrastructure for running such nodes.
 While creating a developer account, 
 one development environment gets created by default. 
 If developers require more than one environment, 
-they can create them via developer portal.
+they can create them via `developer portal <https://monoly.com>`_.
 
 Application Key
 ---------------
