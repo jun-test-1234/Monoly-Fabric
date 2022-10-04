@@ -9,8 +9,8 @@ Unlike most of the existing enterprise communication solutions where user data i
 Monoly Fabric does not get involved in the enterprise users’ data exchange loop while powering up the entire service trustworthy. 
 It defines the trust governance framework which enables secure peer to peer communication between trusted enterprise nodes.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`testing <installation>` the project.
+Check out the :doc:`Getting Started <gettingStarted>` section for further information, including
+how to :ref:`create a developer account <createAccount>` for the project.
 
 .. note::
 
@@ -21,7 +21,7 @@ Contents
 
 .. toctree::
 
-   usage
+   Getting Started
    api
 
 Monoly Fabric has its documentation hosted on Read the Docs.
