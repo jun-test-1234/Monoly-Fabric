@@ -58,6 +58,7 @@ Creating an API key
 ^^^^^^^^^^^^^^^^^^^
 
 To create an API key:
+
 * Login in to developer portal using your credentials
 * Go to respective development environment section for which you need to create API key
 * Click *Generate API key* to create a new API key
