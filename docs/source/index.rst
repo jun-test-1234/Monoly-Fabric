@@ -1,5 +1,5 @@
 Welcome to Monoly Fabric's documentation!
-===================================
+=========================================
 
 **Monoly Fabric** is an enterprise-grade trust network that enables both internal and external entities 
 to communicate and collaborate with each other while retaining the *complete ownership* and *control* of their data.
@@ -21,7 +21,7 @@ Contents
 
 .. toctree::
 
-   Getting Started
+   Getting Started <gettingStarted>
    api
 
 Monoly Fabric has its documentation hosted on Read the Docs.
