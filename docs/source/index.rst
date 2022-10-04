@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to Monoly-Fabric's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Monoly** is the enterprise trust network that enables both internal as well as external entities 
+to communicate and collaborate with each other while retaining the *complete ownership* and *control* of their data.
+
+Unlike most of the existing enterprise communication solutions where user data is stored in a centralized service, 
+Monoly does not get involved in the enterprise user’s data exchange loop while powering up the entire service trustworthy. 
+Rather it defines the trust governance framework which enables secure peer to peer communication between trusted enterprise nodes.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -21,4 +23,4 @@ Contents
    usage
    api
 
-Lumache has its documentation hosted on Read the Docs.
+Monoly-Fabric has its documentation hosted on Read the Docs.
