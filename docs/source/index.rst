@@ -10,7 +10,7 @@ Monoly Fabric does not get involved in the enterprise users’ data exchange loo
 It defines the trust governance framework which enables secure peer to peer communication between trusted enterprise nodes.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`testing <installation>` the project.
 
 .. note::
 
