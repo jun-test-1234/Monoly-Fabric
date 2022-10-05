@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "Monoly-Fabric"
+name = "Monoly Fabric"
 authors = [{name = "Monoly", email = "admin@monoly.com"}]
 dynamic = ["version", "description"]
