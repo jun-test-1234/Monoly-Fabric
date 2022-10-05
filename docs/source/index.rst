@@ -22,7 +22,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   gettingStarted
+   Getting Started <gettingStarted>
    api
 
 Monoly Fabric has its documentation hosted on Read the Docs.
